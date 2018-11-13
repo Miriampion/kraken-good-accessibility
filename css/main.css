@@ -61,8 +61,8 @@ html {
 @media print {
 
   .no-print {
-      visibility: hidden;
-    }
+    visibility: hidden;
+  }
 
   .inset-img {
     border-color: #000;
