@@ -60,11 +60,12 @@ html {
 
 @media print {
 
-.no-print {
-    visibility: hidden;
-  }
-}
+  .no-print {
+      visibility: hidden;
+    }
 
-.inset-img {
-  border-color: #000;
+  .inset-img {
+    border-color: #000;
+  }
+
 }
